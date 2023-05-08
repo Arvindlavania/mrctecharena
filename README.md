@@ -130,11 +130,11 @@ csvfileo.close()
 
 ---
 
-# XYZ Hackathon: Example Hackathon Description
+# MRC Tech Arena 2023 Hackathon Description
 
 ## About The Hackathon
 
-XYZ Hackathon is a 48-hour digital hackathon where young minds possessing a passion for solving real-life problems come together to build innovative solutions. Whether you are a beginner or an expert coder, here is the perfect chance to hone your skills and witness the competitive yet inclusive developer community around you!
+MRC Tech Arena 2023 Hackathon is a 48-hour digital hackathon where young minds possessing a passion for solving real-life problems come together to build innovative solutions. Whether you are a beginner or an expert coder, here is the perfect chance to hone your skills and witness the competitive yet inclusive developer community around you!
 
 Learn new technologies, enhance your team management and presentation skills, and get mentored by experts- all in one place!
 
