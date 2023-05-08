@@ -3,7 +3,6 @@
 
 
 ## Table Of Contents
-- [MRC Tech Arena 2023 Hackathon: Hackathon Description]
   * [About The Hackathon](#about-the-hackathon)
   * [Timeline](#timeline)
   * [Tracks](#tracks)
