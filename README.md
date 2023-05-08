@@ -14,6 +14,7 @@
   * [Rules and Code of Conduct](#rules-and-code-of-conduct)
 
 # MRC Tech Arena 2023 Hackathon Description
+Tech Arena Germany 
 
 ## About The Hackathon
 
